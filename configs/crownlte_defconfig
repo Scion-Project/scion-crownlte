@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT-0
 # HakiOS defconfig for the Samsung Galaxy Note9 (crownlte, SM-N960F, Exynos 9810, devices/crownlte): the common kernel, the Exynos 9810's facts
 # (socs/exynos9810, shared with the S9) and this phone's own. Nothing of the phone's is loaded; nothing has run on this phone yet.
 #include common_defconfig

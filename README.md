@@ -3,7 +3,9 @@
 
 **Nothing in this repository has run on a Note9.** Nobody working on HakiOS has one. Everything here is written from
 Samsung's device trees and the Galaxy S9 port ([scion-starlte](https://github.com/Scion-Project/scion-starlte)), which
-has run on an S9. Every area in `device.conf` is "missing" (its note says what is written for it), and every
+has run on an S9. (The S9+, the same board by those trees, has since run iOS 16.5 on a contributor's phone:
+[scion-star2lte](https://github.com/Scion-Project/scion-star2lte).) This repository is for the iOS 16.5 line; iOS 27 has been
+built for the S9 only. Every area in `device.conf` is "missing" (its note says what is written for it), and every
 driver is off until its boot-argument. If you have a Note9 and want to try, read "First runs" below first, and keep
 your EFS backup off the phone.
 

@@ -1,3 +1,4 @@
+<!-- SPDX-License-Identifier: MIT-0 -->
 # Samsung Galaxy Note9 (crownlte, SM-N960F, Exynos 9810)
 
 **Nothing in this repository has run on a Note9.** Nobody working on HakiOS has one. Everything here is written from
